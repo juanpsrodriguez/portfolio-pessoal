@@ -219,6 +219,10 @@ export default function Home() {
             </a>
           </div>
           <div>
+            <span>E-mail</span>
+            <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>
+          </div>
+          <div>
             <span>Base</span>
             <p>{siteConfig.location}</p>
           </div>

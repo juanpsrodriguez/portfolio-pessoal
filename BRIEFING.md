@@ -32,7 +32,8 @@ Header responsivo, hero, projetos em destaque, áreas de trabalho, sobre, tecnol
 - WhatsApp público: +55 21 99834-2574
 - Base do WhatsApp: https://wa.me/5521998342574
 - GitHub: https://github.com/juanpsrodriguez
-- E-mail e demais redes não foram confirmados e não devem ser publicados.
+- E-mail público: jrodriguez@id.uff.br — mailto:jrodriguez@id.uff.br
+- Demais redes não foram confirmadas e não devem ser publicadas.
 
 ## Projetos web confirmados
 

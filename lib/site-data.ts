@@ -5,6 +5,7 @@ export const siteConfig = {
   location: "Niterói/RJ",
   phoneDisplay: "+55 21 99834-2574",
   phoneInternational: "5521998342574",
+  email: "jrodriguez@id.uff.br",
   github: "https://github.com/juanpsrodriguez",
   whatsappMessage,
   whatsappUrl: `https://wa.me/5521998342574?text=${encodeURIComponent(whatsappMessage)}`,

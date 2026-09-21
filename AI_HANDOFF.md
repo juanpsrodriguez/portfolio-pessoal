@@ -9,6 +9,7 @@ Entregar a primeira versão local completa do portfólio profissional de Juan Ro
 - Projeto Next.js 16 + React 19 + TypeScript com npm e `package-lock.json`, usando scripts padrão compatíveis com Vercel.
 - Homepage completa implementada com header, hero, projetos, áreas, sobre, ferramentas, processo, contato e footer.
 - Configuração de contatos, projetos, áreas e ferramentas centralizada em `lib/site-data.ts`.
+- E-mail público integrado ao bloco de contato com link `mailto:` e o mesmo padrão visual dos demais dados; verificado em 320 px sem overflow horizontal.
 - Metadata em português e favicon próprio configurados.
 - Capturas reais dos três projetos feitas, otimizadas para WebP e integradas.
 - Revisão visual realizada em 320, 390, 430, 768, 1440 e 1920 px; navegação móvel corrigida para fechar após selecionar um link.
@@ -39,6 +40,7 @@ Web, Jogos e protótipos, Apps e software, Criação visual. Não inventar cases
 ## Dados confirmados
 
 - WhatsApp: +55 21 99834-2574 — https://wa.me/5521998342574
+- E-mail: jrodriguez@id.uff.br — mailto:jrodriguez@id.uff.br
 - GitHub: https://github.com/juanpsrodriguez
 - Cais 27: https://barbearia-demo-nu.vercel.app/
 - Linho & Sal: https://restaurant-demo-olive-seven.vercel.app/
