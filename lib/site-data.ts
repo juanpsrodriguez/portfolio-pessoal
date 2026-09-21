@@ -2,6 +2,7 @@ const whatsappMessage = "Olá, Juan! Vi seu portfólio e gostaria de conversar s
 
 export const siteConfig = {
   name: "Juan Rodriguez",
+  url: "https://portfolio-pessoal-ten-virid.vercel.app",
   location: "Niterói/RJ",
   phoneDisplay: "+55 21 99834-2574",
   phoneInternational: "5521998342574",

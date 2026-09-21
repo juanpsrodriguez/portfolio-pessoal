@@ -35,6 +35,12 @@ Header responsivo, hero, projetos em destaque, áreas de trabalho, sobre, tecnol
 - E-mail público: jrodriguez@id.uff.br — mailto:jrodriguez@id.uff.br
 - Demais redes não foram confirmadas e não devem ser publicadas.
 
+## Domínio público atual
+
+- O domínio público estável atual é https://portfolio-pessoal-ten-virid.vercel.app.
+- Este endereço é a origem canônica do portfólio, de seus metadados e do sitemap enquanto não houver domínio próprio.
+- Futuramente, ele poderá ser substituído por um domínio próprio confirmado.
+
 ## Projetos web confirmados
 
 - Cais 27 — barbearia premium — https://barbearia-demo-nu.vercel.app/
@@ -53,6 +59,6 @@ Foram capturados screenshots reais dos três sites em 1440 × 1000 e otimizados 
 
 ## Pendências futuras
 
-- Definir `NEXT_PUBLIC_SITE_URL` quando existir domínio definitivo.
+- Substituir o domínio público atual por um domínio próprio quando ele for definido.
 - Adicionar projetos reais de Jogos, Apps/Software e Visual quando houver material confirmado.
 - Avaliar imagem social específica somente mediante solicitação.
