@@ -86,6 +86,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--signal); outlin
 .project-1 { grid-column: 1 / 10; }
 .project-2 { grid-column: 5 / 13; }
 .project-3 { grid-column: 2 / 12; }
+.project-4 { grid-column: 4 / 13; }
 .project-visual { display: block; overflow: hidden; border: 1px solid var(--ink); background: #20211f; box-shadow: 10px 10px 0 var(--signal); transition: transform 180ms ease, box-shadow 180ms ease; }
 .project-visual:hover { transform: translate(3px, 3px); box-shadow: 5px 5px 0 var(--signal); }
 .project-2 .project-visual { box-shadow: -10px 10px 0 var(--acid); }
@@ -168,7 +169,7 @@ footer > a:last-child { justify-self: end; font-weight: 700; }
   .hero-index { min-height: 340px; }
   .section-heading { grid-template-columns: 1fr; align-items: start; }
   .section-heading h2 { max-width: 700px; }
-  .project-1, .project-2, .project-3 { grid-column: 1 / 13; }
+  .project-1, .project-2, .project-3, .project-4 { grid-column: 1 / 13; }
   .areas-intro, .tools-section, .process-heading { grid-template-columns: 1fr; }
   .tools-heading { position: static; }
   .process-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }

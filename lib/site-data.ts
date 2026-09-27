@@ -33,6 +33,18 @@ export const projects = [
     visualDirection: "Contraste alto, recortes fortes e energia de surf/skate sem perder usabilidade.",
     url: "https://surf-skate-shop-demo.vercel.app/", urlLabel: "surf-skate-shop-demo.vercel.app", image: "/images/projects/sal-e-lixa.webp",
   },
+{
+  slug: "igreja-jesus-vem-breve",
+  name: "Igreja Evangélica Jesus Vem Breve",
+  category: "web" as ProjectCategory,
+  segment: "Igreja",
+  description: "Um espaço digital pensado como um livro da igreja, reunindo sua história, fé, cultos, memórias, fotos e informações importantes para a comunidade.",
+  visualDirection: "Visual simples, acolhedor e contemplativo, priorizando leitura, memória e identidade da igreja sem linguagem comercial.",
+  url: "https://igreja-jesus-vem-breve.vercel.app/",
+  urlLabel: "igreja-jesus-vem-breve.vercel.app",
+  image: "/images/projects/igreja-jesus-vem-breve.webp",
+},
+
 ] as const;
 
 export const workAreas = [
