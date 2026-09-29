@@ -70,7 +70,7 @@ export default function Home() {
           <p className="eyebrow">Trabalho selecionado · 2026</p>
           <h2 id="projects-title">Projetos com identidade própria.</h2>
           <p>
-            Três conceitos de portfólio para negócios diferentes — feitos para exercitar direção visual, interface responsiva e publicação web.
+            Projetos web para negócios e iniciativas diferentes — explorando direção visual, interface responsiva e publicação web.
           </p>
         </div>
 

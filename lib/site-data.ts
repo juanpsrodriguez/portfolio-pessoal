@@ -16,6 +16,19 @@ export type ProjectCategory = "web" | "jogos" | "apps" | "visual";
 
 export const projects = [
   {
+  slug: "gymbro-club",
+  name: "Gymbro Club",
+  category: "web" as ProjectCategory,
+  segment: "Academia · Protótipo conceitual",
+  description:
+    "Protótipo de site desenvolvido por iniciativa própria para uma academia da Região Oceânica de Niterói, reunindo estrutura, aulas, planos, localização e contato.",
+  visualDirection:
+    "Atmosfera noturna, contraste azul e preto, fotografia de equipamentos e uma interface inspirada na identidade da academia.",
+  url: "https://gymbro-concept.vercel.app/",
+  urlLabel: "gymbro-concept.vercel.app",
+  image: "/images/projects/gymbro-club.webp",
+},
+  {
     slug: "cais-27", name: "Cais 27", category: "web" as ProjectCategory, segment: "Barbearia premium",
     description: "Uma presença digital sóbria e direta, com foco em serviços, atmosfera da marca e agendamento pelo WhatsApp.",
     visualDirection: "Tipografia editorial, tons escuros e detalhes de barbearia contemporânea.",
