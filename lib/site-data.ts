@@ -38,8 +38,8 @@ export const projects = [
     "Projeto demonstrativo de site para uma padaria e bistrô em Itacoatiara, com foco em apresentação gastronômica, cardápio digital, ambiente e experiência responsiva.",
   visualDirection:
     "Direção visual acolhedora e gastronômica, com tons quentes, fotografia real do estabelecimento e composição editorial.",
-  url: "https://vitaly-fhi.vercel.app/",
-  urlLabel: "vitaly-fhi.vercel.app",
+  url: "https://vitaly-phi.vercel.app/",
+  urlLabel: "vitaly-phi.vercel.app",
   image: "/images/projects/vitaly-padaria-bistro.webp",
 },
 
