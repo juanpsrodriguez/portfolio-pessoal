@@ -28,6 +28,21 @@ export const projects = [
   urlLabel: "gymbro-concept.vercel.app",
   image: "/images/projects/gymbro-club.webp",
 },
+
+{
+  slug: "vitaly-padaria-bistro",
+  name: "Vitaly Padaria Bistrô",
+  category: "web" as ProjectCategory,
+  segment: "Padaria & bistrô · Projeto demonstrativo",
+  description:
+    "Projeto demonstrativo de site para uma padaria e bistrô em Itacoatiara, com foco em apresentação gastronômica, cardápio digital, ambiente e experiência responsiva.",
+  visualDirection:
+    "Direção visual acolhedora e gastronômica, com tons quentes, fotografia real do estabelecimento e composição editorial.",
+  url: "https://vitaly-fhi.vercel.app/",
+  urlLabel: "vitaly-fhi.vercel.app",
+  image: "/images/projects/vitaly-padaria-bistro.webp",
+},
+
   {
     slug: "cais-27", name: "Cais 27", category: "web" as ProjectCategory, segment: "Barbearia premium",
     description: "Uma presença digital sóbria e direta, com foco em serviços, atmosfera da marca e agendamento pelo WhatsApp.",
